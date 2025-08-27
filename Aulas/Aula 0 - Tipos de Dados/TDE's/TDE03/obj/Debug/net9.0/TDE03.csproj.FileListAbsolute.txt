@@ -1,0 +1,14 @@
+C:\Users\Leonardo\Documents\Faculdade\Segundo Semestre\Desenvolvimento Back-End\TDE's\TDE03\obj\Debug\net9.0\TDE03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonardo\Documents\Faculdade\Segundo Semestre\Desenvolvimento Back-End\TDE's\TDE03\obj\Debug\net9.0\TDE03.AssemblyInfoInputs.cache
+C:\Users\Leonardo\Documents\Faculdade\Segundo Semestre\Desenvolvimento Back-End\TDE's\TDE03\obj\Debug\net9.0\TDE03.AssemblyInfo.cs
+C:\Users\Leonardo\Documents\Faculdade\Segundo Semestre\Desenvolvimento Back-End\TDE's\TDE03\obj\Debug\net9.0\TDE03.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\Documents\Faculdade\Segundo Semestre\Desenvolvimento Back-End\TDE's\TDE03\bin\Debug\net9.0\TDE03.exe
+C:\Users\Leonardo\Documents\Faculdade\Segundo Semestre\Desenvolvimento Back-End\TDE's\TDE03\bin\Debug\net9.0\TDE03.deps.json
+C:\Users\Leonardo\Documents\Faculdade\Segundo Semestre\Desenvolvimento Back-End\TDE's\TDE03\bin\Debug\net9.0\TDE03.runtimeconfig.json
+C:\Users\Leonardo\Documents\Faculdade\Segundo Semestre\Desenvolvimento Back-End\TDE's\TDE03\bin\Debug\net9.0\TDE03.dll
+C:\Users\Leonardo\Documents\Faculdade\Segundo Semestre\Desenvolvimento Back-End\TDE's\TDE03\bin\Debug\net9.0\TDE03.pdb
+C:\Users\Leonardo\Documents\Faculdade\Segundo Semestre\Desenvolvimento Back-End\TDE's\TDE03\obj\Debug\net9.0\TDE03.dll
+C:\Users\Leonardo\Documents\Faculdade\Segundo Semestre\Desenvolvimento Back-End\TDE's\TDE03\obj\Debug\net9.0\refint\TDE03.dll
+C:\Users\Leonardo\Documents\Faculdade\Segundo Semestre\Desenvolvimento Back-End\TDE's\TDE03\obj\Debug\net9.0\TDE03.pdb
+C:\Users\Leonardo\Documents\Faculdade\Segundo Semestre\Desenvolvimento Back-End\TDE's\TDE03\obj\Debug\net9.0\TDE03.genruntimeconfig.cache
+C:\Users\Leonardo\Documents\Faculdade\Segundo Semestre\Desenvolvimento Back-End\TDE's\TDE03\obj\Debug\net9.0\ref\TDE03.dll

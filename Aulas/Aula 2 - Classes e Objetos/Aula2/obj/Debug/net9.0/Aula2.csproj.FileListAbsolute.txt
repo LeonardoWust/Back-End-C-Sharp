@@ -1,0 +1,14 @@
+C:\Users\Leonardo\Documents\Faculdade\Segundo Semestre\Desenvolvimento Back-End\Aulas\Aula 2 - Classes e Objetos\Aula2\bin\Debug\net9.0\Aula2.exe
+C:\Users\Leonardo\Documents\Faculdade\Segundo Semestre\Desenvolvimento Back-End\Aulas\Aula 2 - Classes e Objetos\Aula2\bin\Debug\net9.0\Aula2.deps.json
+C:\Users\Leonardo\Documents\Faculdade\Segundo Semestre\Desenvolvimento Back-End\Aulas\Aula 2 - Classes e Objetos\Aula2\bin\Debug\net9.0\Aula2.runtimeconfig.json
+C:\Users\Leonardo\Documents\Faculdade\Segundo Semestre\Desenvolvimento Back-End\Aulas\Aula 2 - Classes e Objetos\Aula2\bin\Debug\net9.0\Aula2.dll
+C:\Users\Leonardo\Documents\Faculdade\Segundo Semestre\Desenvolvimento Back-End\Aulas\Aula 2 - Classes e Objetos\Aula2\bin\Debug\net9.0\Aula2.pdb
+C:\Users\Leonardo\Documents\Faculdade\Segundo Semestre\Desenvolvimento Back-End\Aulas\Aula 2 - Classes e Objetos\Aula2\obj\Debug\net9.0\Aula2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonardo\Documents\Faculdade\Segundo Semestre\Desenvolvimento Back-End\Aulas\Aula 2 - Classes e Objetos\Aula2\obj\Debug\net9.0\Aula2.AssemblyInfoInputs.cache
+C:\Users\Leonardo\Documents\Faculdade\Segundo Semestre\Desenvolvimento Back-End\Aulas\Aula 2 - Classes e Objetos\Aula2\obj\Debug\net9.0\Aula2.AssemblyInfo.cs
+C:\Users\Leonardo\Documents\Faculdade\Segundo Semestre\Desenvolvimento Back-End\Aulas\Aula 2 - Classes e Objetos\Aula2\obj\Debug\net9.0\Aula2.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\Documents\Faculdade\Segundo Semestre\Desenvolvimento Back-End\Aulas\Aula 2 - Classes e Objetos\Aula2\obj\Debug\net9.0\Aula2.dll
+C:\Users\Leonardo\Documents\Faculdade\Segundo Semestre\Desenvolvimento Back-End\Aulas\Aula 2 - Classes e Objetos\Aula2\obj\Debug\net9.0\refint\Aula2.dll
+C:\Users\Leonardo\Documents\Faculdade\Segundo Semestre\Desenvolvimento Back-End\Aulas\Aula 2 - Classes e Objetos\Aula2\obj\Debug\net9.0\Aula2.pdb
+C:\Users\Leonardo\Documents\Faculdade\Segundo Semestre\Desenvolvimento Back-End\Aulas\Aula 2 - Classes e Objetos\Aula2\obj\Debug\net9.0\Aula2.genruntimeconfig.cache
+C:\Users\Leonardo\Documents\Faculdade\Segundo Semestre\Desenvolvimento Back-End\Aulas\Aula 2 - Classes e Objetos\Aula2\obj\Debug\net9.0\ref\Aula2.dll

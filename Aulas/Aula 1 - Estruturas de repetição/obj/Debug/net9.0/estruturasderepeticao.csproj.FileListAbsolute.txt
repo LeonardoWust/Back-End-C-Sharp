@@ -1,0 +1,14 @@
+c:\Users\Leonardo\Documents\Faculdade\Segundo Semestre\Desenvolvimento Back-End\Aulas\estruturasderepeticao\bin\Debug\net9.0\estruturasderepeticao.exe
+c:\Users\Leonardo\Documents\Faculdade\Segundo Semestre\Desenvolvimento Back-End\Aulas\estruturasderepeticao\bin\Debug\net9.0\estruturasderepeticao.deps.json
+c:\Users\Leonardo\Documents\Faculdade\Segundo Semestre\Desenvolvimento Back-End\Aulas\estruturasderepeticao\bin\Debug\net9.0\estruturasderepeticao.runtimeconfig.json
+c:\Users\Leonardo\Documents\Faculdade\Segundo Semestre\Desenvolvimento Back-End\Aulas\estruturasderepeticao\bin\Debug\net9.0\estruturasderepeticao.dll
+c:\Users\Leonardo\Documents\Faculdade\Segundo Semestre\Desenvolvimento Back-End\Aulas\estruturasderepeticao\bin\Debug\net9.0\estruturasderepeticao.pdb
+c:\Users\Leonardo\Documents\Faculdade\Segundo Semestre\Desenvolvimento Back-End\Aulas\estruturasderepeticao\obj\Debug\net9.0\estruturasderepeticao.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Leonardo\Documents\Faculdade\Segundo Semestre\Desenvolvimento Back-End\Aulas\estruturasderepeticao\obj\Debug\net9.0\estruturasderepeticao.AssemblyInfoInputs.cache
+c:\Users\Leonardo\Documents\Faculdade\Segundo Semestre\Desenvolvimento Back-End\Aulas\estruturasderepeticao\obj\Debug\net9.0\estruturasderepeticao.AssemblyInfo.cs
+c:\Users\Leonardo\Documents\Faculdade\Segundo Semestre\Desenvolvimento Back-End\Aulas\estruturasderepeticao\obj\Debug\net9.0\estruturasderepeticao.csproj.CoreCompileInputs.cache
+c:\Users\Leonardo\Documents\Faculdade\Segundo Semestre\Desenvolvimento Back-End\Aulas\estruturasderepeticao\obj\Debug\net9.0\estruturasderepeticao.dll
+c:\Users\Leonardo\Documents\Faculdade\Segundo Semestre\Desenvolvimento Back-End\Aulas\estruturasderepeticao\obj\Debug\net9.0\refint\estruturasderepeticao.dll
+c:\Users\Leonardo\Documents\Faculdade\Segundo Semestre\Desenvolvimento Back-End\Aulas\estruturasderepeticao\obj\Debug\net9.0\estruturasderepeticao.pdb
+c:\Users\Leonardo\Documents\Faculdade\Segundo Semestre\Desenvolvimento Back-End\Aulas\estruturasderepeticao\obj\Debug\net9.0\estruturasderepeticao.genruntimeconfig.cache
+c:\Users\Leonardo\Documents\Faculdade\Segundo Semestre\Desenvolvimento Back-End\Aulas\estruturasderepeticao\obj\Debug\net9.0\ref\estruturasderepeticao.dll
